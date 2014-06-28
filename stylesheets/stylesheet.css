@@ -19,8 +19,10 @@ time, mark, audio, video {
 	padding: 0;
 	border: 0;
 	font-size: 100%;
-	font: corsiva;
+	font-family: corsiva;
 	vertical-align: baseline;
+	background: black;
+	color: white;
 }
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure,
